@@ -1,0 +1,86 @@
+[
+  {
+    "log_id": "LOG001",
+    "equipment_id": "EQ001",
+    "maintenance_type": "Routine Inspection",
+    "date": "2024-01-10",
+    "technician": "John Smith",
+    "description": "Checked oil levels, tested voltage regulation, all parameters within normal range",
+    "status": "Completed",
+    "next_scheduled": "2024-04-10",
+    "parts_used": [],
+    "cost": 250.00
+  },
+  {
+    "log_id": "LOG002",
+    "equipment_id": "EQ002",
+    "maintenance_type": "Preventive Maintenance",
+    "date": "2024-02-05",
+    "technician": "Maria Garcia",
+    "description": "Replaced air filters, checked fuel injection system, performed load test",
+    "status": "Completed",
+    "next_scheduled": "2024-05-05",
+    "parts_used": ["Air Filter AF-500", "Fuel Filter FF-200"],
+    "cost": 1200.00
+  },
+  {
+    "log_id": "LOG003",
+    "equipment_id": "EQ003",
+    "maintenance_type": "Repair",
+    "date": "2023-12-20",
+    "technician": "David Wilson",
+    "description": "Faulty contact mechanism detected, replaced switching mechanism",
+    "status": "In Progress",
+    "next_scheduled": null,
+    "parts_used": ["Contact Assembly CA-100"],
+    "cost": 850.00
+  },
+  {
+    "log_id": "LOG004",
+    "equipment_id": "EQ004",
+    "maintenance_type": "Visual Inspection",
+    "date": "2024-01-25",
+    "technician": "Sarah Johnson",
+    "description": "Inspected cable joints and terminations, no visible damage detected",
+    "status": "Completed",
+    "next_scheduled": "2024-07-25",
+    "parts_used": [],
+    "cost": 150.00
+  },
+  {
+    "log_id": "LOG005",
+    "equipment_id": "EQ005",
+    "maintenance_type": "Calibration",
+    "date": "2024-02-15",
+    "technician": "Robert Chen",
+    "description": "Calibrated measurement accuracy, updated firmware to latest version",
+    "status": "Completed",
+    "next_scheduled": "2025-02-15",
+    "parts_used": [],
+    "cost": 300.00
+  },
+  {
+    "log_id": "LOG006",
+    "equipment_id": "EQ008",
+    "maintenance_type": "Software Update",
+    "date": "2024-01-30",
+    "technician": "Lisa Thompson",
+    "description": "Updated protection settings, tested relay response times",
+    "status": "Completed",
+    "next_scheduled": "2024-07-30",
+    "parts_used": [],
+    "cost": 200.00
+  },
+  {
+    "log_id": "LOG007",
+    "equipment_id": "EQ010",
+    "maintenance_type": "Emergency Repair",
+    "date": "2024-01-05",
+    "technician": "Mike Anderson",
+    "description": "Motor bearing failure, replacement required, pump station temporarily offline",
+    "status": "In Progress",
+    "next_scheduled": null,
+    "parts_used": ["Bearing Set BS-100"],
+    "cost": 2500.00
+  }
+] 

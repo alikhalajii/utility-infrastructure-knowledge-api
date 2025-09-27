@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+
+.vscode/
+.venv/
+.flake8
+
+logs/
+notebooks/
+notes/
+
+README_INSTRUCTIONS.md
+SETUP_INSTRUCTIONS.md
