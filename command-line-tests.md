@@ -1,5 +1,7 @@
 
 ```bash
+# Make sure the API is running (e.g., uvicorn main:app) before running these commands.
+
 # List all equipment
 curl -s -X GET "http://localhost:8000/api/equipment" -H "accept: application/json" | python -m json.tool
 
