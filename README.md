@@ -32,5 +32,8 @@ Or use the manual command-line tests provided in:
 
 
 
-### Next Steps
-Design decisions and assumptions will be added in the following commit.
+## Design Decisions & Assumptions
+
+For details on the architectural choices, assumptions, and potential real-world optimizations made during this project, please see the dedicated document:  
+[Decision Design & Assumptions](decision-design-assumptions.md)
+
